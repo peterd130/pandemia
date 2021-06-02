@@ -12,7 +12,7 @@ Sabendo que, no momento que as vacinas forem descobertas e os remédios desenvol
 
 ## Requisitos
 
-Você deverá desenvolver uma aplicação ***EB usando Apache/MySQL/PHP e o framework Codeigniter 4*** que deverá fazer o agendamento de entrega das vacinas e dos remédios, que será feita por um drone (esses não paralizam com o vírus).
+Você deverá desenvolver uma aplicação ***WEB usando Apache/MySQL/PHP e o framework Codeigniter 4*** que deverá fazer o agendamento de entrega das vacinas e dos remédios, que será feita por um drone (esses não paralizam com o vírus).
 
 Para isso, sua aplicação deverá possuir os seguintes requisitos funcionais:
 
