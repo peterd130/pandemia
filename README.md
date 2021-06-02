@@ -36,7 +36,7 @@ Para isso, sua aplicação deverá possuir os seguintes requisitos funcionais:
 
   O usuário deverá digitar seu CPF e, ao exibir as solicitações daquele usuário, você poderá escolher que a solicitação foi cancelada.
 
-- **Maracar a solicitação do remédio / vacina como entregue**
+- **Marcar a solicitação do remédio / vacina como entregue**
 
   Como não há fiscais que possam acompanhar as entregas, somos obrigados a confiar uns nos outros. Dessa forma, um usuário poderá sinalizar assim que a sua entrega for recebida. O usuário deverá digitar seu CPF e, ao exibir as solicitações daquele usuário, você poderá escolher que a solicitação foi entregue.
 
