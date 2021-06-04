@@ -1,6 +1,9 @@
 # Pandemia 
 Aplicação desenvolvida utilizando  PHP 7.4.19, CodeIgniter v4.1.2 e MySQL 8.0.25. Para configuração do ambiente foi utilizando o XAMPP.
 
+## Configuração do projeto
+
+- Para instalar as dependências, utilize composer, executando o comando `composer require codeigniter4/framework --prefer-source`
 ## Configuração do Banco de Dados
 
 - database: pandemia
